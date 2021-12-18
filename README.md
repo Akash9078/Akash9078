@@ -1,5 +1,13 @@
 ### Hi there 👋, I'm Akash Kumar Naik  
-[instagram] (https://www.instagram.com/akash_naik_97)
+<a href="https://www.linkedin.com/in//">
+  <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
+</a>
+<a href="https://twitter.com/akashkumarnaik4">
+  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="mailto:akashkumarnaik948@gmail.com">
+  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a>
 
 - ❤  Web developement ❤
 - 🌱 I’m currently learning programming language i.e JAVA. 
