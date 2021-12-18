@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Akash Kumar Naik  
 
-      https://www.twitter.com/@akashkumarnaik4
+      (https://www.twitter.com/@akashkumarnaik4)
       https://www.instagram.com/akash_naik_97
 
 - ❤  Web developement ❤ -
