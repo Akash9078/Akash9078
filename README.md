@@ -8,7 +8,8 @@
 <a href="mailto:akashkumarnaik948@gmail.com">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
-
+<br>
+<br>
 - ❤  Web developement ❤
 - 🌱 I’m currently learning programming language i.e JAVA. 
 - 🥅 2022 Goals: Contribute more to Open Source projects.
