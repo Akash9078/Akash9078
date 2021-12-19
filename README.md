@@ -11,7 +11,7 @@
 <br>
 <br>
 
-- ❤  Web developement ❤<br>
+- ❤  Web development ❤<br>
 - 🌱 I’m currently learning programming language i.e JAVA. <br>
 - 🥅 2022 Goals: Contribute more to Open Source projects.<br>
 - ⚡ I have the knowledge of Photoshop & Illustrator.  <br>
